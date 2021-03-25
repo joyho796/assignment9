@@ -1,0 +1,81 @@
+{"song_list":[
+    {"song":
+        {"title":"Love Story",
+        "artist(s)":["Taylor Swift"],
+        "genre(s)":["Pop"],
+        "year":"2008"
+        }
+    },
+
+    {"song":
+        {"title":"Heal the World",
+        "artist(s)":["Michael Jackson"],
+        "genre(s)":["Pop"],
+        "year":"1991"
+        }
+    },
+
+    {"song":
+        {"title":"Bad Romance",
+        "artist(s)":["Lady Gaga"],
+        "genre(s)":["Pop"],
+        "year":"2008"
+        }
+    },
+
+    {"song":
+        {"title":"Writing's on the Wall",
+        "artist(s)":["Sam Smith"],
+        "genre(s)":["Pop"],
+        "year":"2015"
+        }
+    },
+
+    {"song":
+        {"title":"The Phantom of the Opera",
+        "artist(s)":["Andrew Lloyd Webber"],
+        "genre(s)":["Musicals"],
+        "year":"2008"
+        }
+    },
+
+    {"song":
+        {"title":"I Dreamed a Dream",
+        "artist(s)":["Randy Graff"],
+        "genre(s)":["Musicals"],
+        "year":"1987"
+        }
+    },
+
+    {"song":
+        {"title":"Can You Feel the Love Tonight",
+        "artist(s)":["Elton John"],
+        "genre(s)":["Musicals", "Movie"],
+        "year":"1994"
+        }
+    },
+
+    {"song":
+        {"title":"Into the Unknown",
+        "artist(s)":["Idina Menzel", "Aurora"],
+        "genre(s)":["Musicals", "Movie"],
+        "year":"2019"
+        }
+    },
+
+    {"song":
+        {"title":"Airplanes",
+        "artist(s)":["B.o.B", "Hayley Williams"],
+        "genre(s)":["Pop", "Rap"],
+        "year":"2010"
+        }
+    },
+
+    {"song":
+        {"title":"Love the Way You Lie",
+        "artist(s)":["Eminem", "Rhianna"],
+        "genre(s)":["Pop", "Rap"],
+        "year":"2010"
+        }
+    },
+]}
