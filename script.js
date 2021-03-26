@@ -13,7 +13,7 @@ function onLoad() {
             result = request.responseText;
             data = JSON.parse(result);
 
-            document.getElementById("json_str").innerHTML = JSON.stringify(data);
+            document.getElementById("https://joyho796.github.io/assignment9/data.json").innerHTML = JSON.stringify(data);
 
 
         } else if (request.readyState == 4 && request.status != 200) {
