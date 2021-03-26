@@ -1,72 +1,72 @@
 [
     {
         "title": "Love Story",
-        "artist(s)": ["Taylor Swift"],
-        "genre(s)": ["Pop"],
+        "artists": ["Taylor Swift"],
+        "genres": ["Pop"],
         "year": 2008
     },
 
 
     {
         "title": "Heal the World",
-        "artist(s)": ["Michael Jackson"],
-        "genre(s)": ["Pop"],
+        "artists": ["Michael Jackson"],
+        "genres": ["Pop"],
         "year": 1991
     },
 
     {
         "title": "Bad Romance",
-        "artist(s)": ["Lady Gaga"],
-        "genre(s)": ["Pop"],
+        "artists": ["Lady Gaga"],
+        "genres": ["Pop"],
         "year": 2008
     },
 
     {
         "title": "Writing's on the Wall",
-        "artist(s)": ["Sam Smith"],
-        "genre(s)": ["Pop"],
+        "artists": ["Sam Smith"],
+        "genres": ["Pop"],
         "year": 2015
     },
 
     {
         "title": "The Phantom of the Opera",
-        "artist(s)": ["Andrew Lloyd Webber"],
-        "genre(s)": ["Musicals"],
+        "artists": ["Andrew Lloyd Webber"],
+        "genres": ["Musicals"],
         "year": 2008
     },
 
     {
         "title": "I Dreamed a Dream",
-        "artist(s)": ["Randy Graff"],
-        "genre(s)": ["Musicals"],
+        "artists": ["Randy Graff"],
+        "genres": ["Musicals"],
         "year": 1987
     },
 
     {
         "title": "Can You Feel the Love Tonight",
-        "artist(s)": ["Elton John"],
-        "genre(s)": ["Musicals", "Movie"],
+        "artists": ["Elton John"],
+        "genres": ["Musicals", "Movie"],
         "year": 1994
     },
 
     {
         "title": "Into the Unknown",
-        "artist(s)": ["Idina Menzel", "Aurora"],
-        "genre(s)": ["Musicals", "Movie"],
+        "artists": ["Idina Menzel", "Aurora"],
+        "genres": ["Musicals", "Movie"],
         "year": 2019
     },
 
     {
         "title": "Airplanes",
-        "artist(s)": ["B.o.B", "Hayley Williams"],
-        "genre(s)": ["Pop", "Rap"],
+        "artists": ["B.o.B", "Hayley Williams"],
+        "genres": ["Pop", "Rap"],
         "year": 2010
     },
 
     {
         "title": "Love the Way You Lie",
-        "artist(s)": ["Eminem", "Rhianna"],
-        "genre(s)": ["Pop", "Rap"],
+        "artists": ["Eminem", "Rhianna"],
+        "genres": ["Pop", "Rap"],
         "year": 2010
     }
 ]
